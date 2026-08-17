@@ -4,7 +4,7 @@
 
 Former **Application Developer & Designer** (*CDA - French National RNCP Level 6 Degree*), currently expanding into **DevOps Engineering, Cloud Automation, and Infrastructure as Code**. 
 
-I combine strong software development fundamentals (PHP/Symfony, React, React Native) with modern Infrastructure & Automation practices (Ansible, Terraform, Python, Docker).
+I combine software development fundamentals (PHP/Symfony, React, React Native) with modern Infrastructure & Automation practices (Ansible, Terraform, Python, Docker).
 
 ---
 
