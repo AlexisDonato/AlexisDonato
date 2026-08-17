@@ -35,12 +35,12 @@ I combine strong software development fundamentals (PHP/Symfony, React, React Na
 
 ---
 
-## 📂 Featured Projects & Highlights
+## 📂 Inside My Featured Projects & Highlights ?
 
 ### ⚙️ DevOps & Automation (Current Focus)
-- 🔹 **Ansible Projects:** From basic playbook configurations to complex multi-role orchestration for system provisioning.
-- 🔹 **Terraform Projects:** Infrastructure as Code (IaC) templates ranging from simple resource provisioning to modular multi-environment deployments.
-- 🔹 **Upcoming:** Python automation scripts, Dockerized applications, and CI/CD pipelines.
+- 🔹 **Ansible Projects:** From basic playbook configurations to a more complex multi-role orchestration for system provisioning.
+- 🔹 **Terraform Projects:** Infrastructure as Code (IaC) templates ranging from simple resource provisioning to a more complex structure.
+- 🔹 **Upcoming:** Python automation scripts, Dockerized applications, and CI/CD pipelines...
 
 ### 💻 Software Application & Design Degree (CDA)
 - 🔹 **Full-Stack Web App:** Symfony / PHP web application.
