@@ -44,8 +44,7 @@ I combine strong software development fundamentals (PHP/Symfony, React, React Na
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlexisDonato&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-languages/?username=AlexisDonato&layout=compact&theme=dark" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexisDonato&theme=github-compact" alt="GitHub Activity Graph" width="100%"/>
 </p>
 
 ---
