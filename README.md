@@ -44,7 +44,8 @@ I combine strong software development fundamentals (PHP/Symfony, React, React Na
 | Configuration Management | Ansible, Linux | GitHub |
 | CI/CD Pipeline | GitLab CI/CD, Docker, Trivy | GitLab |
 
-> 🔗 GitLab
+> 🔗 My GitLab
+
 [![GitLab](https://img.shields.io/badge/GitLab-DevOps%20Projects-orange?logo=gitlab&logoColor=white)](https://gitlab.com/alexdon-groupe)
 
 Currently working on a complete CI/CD project using **GitLab CI/CD, Docker, Trivy and To Be Continuous**.
