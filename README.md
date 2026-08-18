@@ -38,9 +38,17 @@ I combine strong software development fundamentals (PHP/Symfony, React, React Na
 ## 📂 Inside My Featured Projects & Highlights ?
 
 ### ⚙️ DevOps & Automation (Current Focus)
-- 🔹 **Ansible Projects:** From basic playbook configurations to a more complex multi-role orchestration for system provisioning.
-- 🔹 **Terraform Projects:** Infrastructure as Code (IaC) templates ranging from simple resource provisioning to a more complex structure.
-- 🔹 **Upcoming:** Python automation scripts, Dockerized applications, and CI/CD pipelines...
+| Project | Technologies | Platform |
+|---|---|---|
+| Infrastructure as Code | Terraform, KVM/libvirt | GitHub |
+| Configuration Management | Ansible, Linux | GitHub |
+| CI/CD Pipeline | GitLab CI/CD, Docker, Trivy | GitLab |
+
+#### 🔗 GitLab
+[![GitLab](https://img.shields.io/badge/GitLab-DevOps%20Projects-orange?logo=gitlab&logoColor=white)](https://gitlab.com/alexdon-groupe)
+Currently working on a complete CI/CD project using **GitLab CI/CD, Docker, Trivy and To Be Continuous**.
+
+
 
 ### 💻 Software Application & Design Degree (CDA)
 - 🔹 **Full-Stack Web App:** Symfony / PHP web application.
