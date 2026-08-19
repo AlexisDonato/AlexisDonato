@@ -61,6 +61,13 @@ I combine strong software development fundamentals (PHP/Symfony, React, React Na
 
 ---
 
+## 📂 My Projects
+
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
