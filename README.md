@@ -57,6 +57,7 @@ I combine strong software development fundamentals (PHP/Symfony, React, React Na
 - 🔹 **Full-Stack Web App:** Symfony / PHP web application.
 - 🔹 **Desktop Application:** React-based desktop solution.
 - 🔹 **Mobile Application:** Cross-platform React Native mobile app.
+- 🔹 **Game Development:** Godot project using C# and GDScript.
 - 🔹 **Training Modules:** Academic codebase and projects built during the RNCP Level 6 certification.
 
 ---
