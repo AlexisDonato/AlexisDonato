@@ -19,6 +19,7 @@ I combine strong software development fundamentals (PHP/Symfony, React, React Na
 
 ### **CI/CD & Release Management**
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Digital.ai](https://img.shields.io/badge/Digital.ai_Release_%26_Deploy-002D62?style=for-the-badge&logo=digital&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
