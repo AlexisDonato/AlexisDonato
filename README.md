@@ -61,18 +61,12 @@ I combine strong software development fundamentals (PHP/Symfony, React, React Na
 
 ---
 
-## 📂 My Projects
-
-<!-- PROJECTS:START -->
-<!-- PROJECTS:END -->
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexisDonato&theme=github-compact" alt="GitHub Activity Graph" width="100%"/>
 </p>
+
 
 ---
 
