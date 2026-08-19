@@ -44,7 +44,7 @@ I combine strong software development fundamentals (PHP/Symfony, React, React Na
 |---|---|---|
 | Infrastructure as Code | Terraform, KVM/libvirt | GitHub |
 | Configuration Management | Ansible, Linux | GitHub |
-| CI/CD Pipeline | GitLab CI/CD, Docker, Trivy | GitLab |
+| CI/CD Pipeline | GitLab CI/CD, Docker, Lint/Trivy | GitLab |
 
 > 🔗 Link to my GitLab : 
 [![GitLab](https://img.shields.io/badge/GitLab-DevOps%20Projects-orange?logo=gitlab&logoColor=white)](https://gitlab.com/alexdon-groupe)
